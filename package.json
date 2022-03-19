@@ -25,10 +25,6 @@
     "redux": "^4.1.2",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^2.4.1",
-    "stylelint": "13.x",
-    "stylelint-config-standard": "21.x",
-    "stylelint-csstree-validator": "1.x",
-    "stylelint-scss": "3.x",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
@@ -54,5 +50,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
   }
 }
