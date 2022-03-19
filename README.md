@@ -2,7 +2,7 @@
 
 DEMO REACT PROJECT TO CONSUME RAILS API
 
-![Screenshot](./src/assets/math-magicians.png)
+[DEMO LINK]("https://unruffled-brahmagupta-4db9c5.netlify.app/)
 
 This project is part of the Microverse curriculum final capstone module. The main objective is to understand how create a React app, use class based-components, hooks, state, run tests, and creating professional documentation for development.
 
