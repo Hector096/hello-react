@@ -1,9 +1,10 @@
-# Math Magicians
-Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to  make simple calculations and read a random math-related quote.
+# HELLO REACT APP 
+
+DEMO REACT PROJECT TO CONSUME RAILS API
 
 ![Screenshot](./src/assets/math-magicians.png)
 
-This project is part of the Microverse curriculum module 3. The main objective is to understand how create a React app, use class based-components, hooks, state, run tests, and creating professional documentation for development.
+This project is part of the Microverse curriculum final capstone module. The main objective is to understand how create a React app, use class based-components, hooks, state, run tests, and creating professional documentation for development.
 
 
 ## Built With
@@ -25,7 +26,7 @@ To get a local copy of this project:
 
 Clone this repository or download the Zip folder:
 ```
-git@github.com:KDlamini/math-magicians.git
+https://github.com/Hector096/hello-react
 ```
 
 To get started, In the project directory, you can run:
@@ -83,19 +84,18 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Authors
 
-👤 **Simo Nkosi**
+👤 **Author**
 
-- GitHub: [@KDlamini](https://github.com/KDlamini)
-- Twitter: [@RealSimoNkosi](https://twitter.com/RealSimoNkosi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/simo-nkosi-418523180/)
+:bearded_person: **Hector**
+  - GitHub: [@githubhandle](https://github.com/Hector096)
+  - Linkedin: [@linkedinhandle](https://www.linkedin.com/in/hector096/)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/KDlamini/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/Hector096/hello-react/issues).
 
 
 ## Show your support
@@ -108,7 +108,3 @@ Give a ⭐️ if you like this project!
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to Code Reviewers for the insightful feedback.
 - A great thanks to My coding partners, morning session team, and standup team Partners for their contributions.
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
