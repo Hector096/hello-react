@@ -9,13 +9,8 @@ const Greeting = () => {
 
   const loadGreeting = async () => {
     const baseUrl = 'https://tolu-rails-backend.herokuapp.com/api/v1/greetings';
-    try {
-      const { data } = await axios.get(`${baseUrl}`);
-
-      dispatch(getGreetingAction(data.greeting.message));
-    } catch (err) {
-      console.log(err.message);
-    }
+    const { data } = await axios.get(`${baseUrl}`);
+    dispatch(getGreetingAction(data.greeting.message));
   };
 
   useEffect(() => {
